@@ -34,3 +34,7 @@ docs/media/
 .env.*.local
 *.pem
 *.key
+_secret_*
+
+# OMC 工具本地状态
+.omc/

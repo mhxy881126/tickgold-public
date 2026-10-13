@@ -6,7 +6,7 @@ TickGold 是一款**跨平台 A 股盯盘桌面终端**（Tauri 2 + Rust + Vue 3
 - 开源协议：[MIT](../LICENSE)
 - 最新版本：见 [Releases](https://github.com/mhxy881126/tickgold-public/releases)
 
-![TickGold 主工作台](screenshots/01-workbench.png)
+![TickGold 盘后复盘工作台](screenshots/01-workbench.png)
 
 ## 快速开始
 
